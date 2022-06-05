@@ -7,8 +7,11 @@ After that, doubleclick to run decode.exe directly, the decoded pdf files will b
 ![image](https://user-images.githubusercontent.com/53512455/172063519-82f492e7-fd94-490d-8ae0-9f1dfd152f27.png)
 
 To moniter the decoding progress, you can also open cmd and input following instructions:
+
 cd <filepath>
+  
 decode.exe
+  
 ![image](https://user-images.githubusercontent.com/53512455/172063727-ad711e83-f0b9-41c2-9433-7699c5c15cbc.png)
 
 For developers, source code is also provided in decode.py.
