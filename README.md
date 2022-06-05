@@ -6,7 +6,7 @@ After that, doubleclick to run decode.exe directly, the decoded pdf files will b
 
 ![image](https://user-images.githubusercontent.com/53512455/172063816-7bcd2ecc-e1b4-4ef7-8152-c52cf2c55deb.png)
 
-To moniter the decoding progress, you can also open cmd and input following instructions:
+You can also open cmd and input following instructions to run it:
   
 ![image](https://user-images.githubusercontent.com/53512455/172063727-ad711e83-f0b9-41c2-9433-7699c5c15cbc.png)
 
