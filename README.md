@@ -4,13 +4,9 @@ To decode NFT pictures back to pdf, please decompress the attached package and p
 
 After that, doubleclick to run decode.exe directly, the decoded pdf files will be written in "pdf" folder, named after derived pictures. It could take hours, depending on your computer's performance.
 
-![image](https://user-images.githubusercontent.com/53512455/172063519-82f492e7-fd94-490d-8ae0-9f1dfd152f27.png)
+![image](https://user-images.githubusercontent.com/53512455/172063816-7bcd2ecc-e1b4-4ef7-8152-c52cf2c55deb.png)
 
 To moniter the decoding progress, you can also open cmd and input following instructions:
-
-cd <filepath>
-  
-decode.exe
   
 ![image](https://user-images.githubusercontent.com/53512455/172063727-ad711e83-f0b9-41c2-9433-7699c5c15cbc.png)
 
